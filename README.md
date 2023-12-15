@@ -1,2 +1,2 @@
-# BankingSystem_DB_Coursework
-Repo for my database coursework 
+# DB for Banking System
+## Dovgun Victoria | 053502
